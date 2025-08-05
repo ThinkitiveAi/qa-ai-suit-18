@@ -1,0 +1,23 @@
+{
+  "name": "qa-ai-suit-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkitiveAi/qa-ai-suit-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkitiveAi/qa-ai-suit-18/issues"
+  },
+  "homepage": "https://github.com/ThinkitiveAi/qa-ai-suit-18#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
